@@ -1,7 +1,3 @@
-Certainly! Here's a README file tailored to your specifications for a Language Translator Tool for Government Purpose:
-
----
-
 # Language Translator Tool for Government Purpose
 
 ## Introduction
@@ -38,3 +34,43 @@ The Language Translator Tool is developed to facilitate seamless communication b
 
 - Node.js
 - Angular CLI
+
+### Steps
+
+1. *Clone the repository:*
+
+    bash
+    git clone https://github.com/your-username/language-translator-tool.git
+    cd language-translator-tool
+    
+
+2. *Set up the frontend:*
+
+    bash
+    cd frontend
+    npm install
+    
+
+3. *Set up the backend:*
+
+    bash
+    cd backend
+    npm install
+    
+
+## Usage
+
+### Running the Server
+
+1. *Backend:*
+
+    bash
+    cd backend
+    npm start
+    
+
+2. *Frontend:*
+
+    bash
+    cd frontend
+    ng serve
